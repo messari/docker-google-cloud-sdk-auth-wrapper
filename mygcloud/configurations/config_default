@@ -1,0 +1,2 @@
+[auth]
+credential_file_override = /tmp/certs/svc_account.json
